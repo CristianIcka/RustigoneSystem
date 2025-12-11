@@ -1,0 +1,5 @@
+Login → admin@rustigone.com / Admin123!
+
+Abrir Ventas → Click botón "VENTAS"
+
+Buscar producto → Código: 1234567890123 (Pan Francés)
